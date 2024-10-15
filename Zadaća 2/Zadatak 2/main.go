@@ -34,6 +34,6 @@ func main(){
 		},
 		
 	}
-	fmt.Println(o.Podaci())
+	o.Podaci()
 
 }
